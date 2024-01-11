@@ -7,7 +7,9 @@ A aplicação consiste em uma cópia do jogo "Palavra Misteriosa" do roda roda R
 <!--## Layout mobile-->
 
 ## Layout web
-[Uploading home-secret-word.png-53:-29:85:47…]()
+
+![game-secret-word](https://github.com/luizgustavoou/Secret-Word/assets/89609312/b9fc311f-2e81-4c45-81d2-b1fdab2c7aa1)
+
 
 <!--
 ## Modelo conceitual
@@ -49,7 +51,7 @@ cd Secret-Word
 npm run start
 ```
 
-## :soon: Implementação futura
+<!-- ## :soon: Implementação futura -->
 
 ## :dart: Status do projeto
 Finalizado
