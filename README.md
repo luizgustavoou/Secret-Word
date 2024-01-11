@@ -7,6 +7,7 @@ A aplicação consiste em uma cópia do jogo "Palavra Misteriosa" do roda roda R
 <!--## Layout mobile-->
 
 ## Layout web
+![home-secret-word](https://github.com/luizgustavoou/Secret-Word/assets/89609312/254797b9-7bff-40b2-9041-21710acf42d0)
 
 ![game-secret-word](https://github.com/luizgustavoou/Secret-Word/assets/89609312/b9fc311f-2e81-4c45-81d2-b1fdab2c7aa1)
 
