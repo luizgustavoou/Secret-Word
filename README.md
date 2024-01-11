@@ -39,7 +39,7 @@ A aplicação consiste em uma cópia do jogo "Palavra Misteriosa" do roda roda R
 --
 
 ## Front end web
-Pré-requisitos: Java na versão 17 ou superior, JavaFX e Maven
+Pré-requisitos: Nodejs instalado.
 
 ```bash
 # clonar repositório
